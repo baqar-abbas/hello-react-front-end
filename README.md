@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 > # Hello React Front End
 <div align="center">
 <h1><b> Rails with react</b></h1>
